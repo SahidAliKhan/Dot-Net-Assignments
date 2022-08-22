@@ -92,6 +92,7 @@ namespace Day5b
                     Console.WriteLine(i);
                 }
             }
+            
             Console.WriteLine("---------------------------");
             Console.ReadLine();
         }
