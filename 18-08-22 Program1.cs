@@ -44,7 +44,6 @@ namespace Day3
             Console.WriteLine("Enter First number:");
             Console.ReadLine();
 
-
         }
     }
 }
