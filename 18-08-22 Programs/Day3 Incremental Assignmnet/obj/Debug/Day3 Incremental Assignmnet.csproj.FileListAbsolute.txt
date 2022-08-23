@@ -1,0 +1,8 @@
+S:\Apps\Dot Net\Day3 Incremental Assignmnet\bin\Debug\Day3 Incremental Assignmnet.exe.config
+S:\Apps\Dot Net\Day3 Incremental Assignmnet\bin\Debug\Day3 Incremental Assignmnet.exe
+S:\Apps\Dot Net\Day3 Incremental Assignmnet\bin\Debug\Day3 Incremental Assignmnet.pdb
+S:\Apps\Dot Net\Day3 Incremental Assignmnet\obj\Debug\Day3 Incremental Assignmnet.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\Day3 Incremental Assignmnet\obj\Debug\Day3 Incremental Assignmnet.csproj.SuggestedBindingRedirects.cache
+S:\Apps\Dot Net\Day3 Incremental Assignmnet\obj\Debug\Day3 Incremental Assignmnet.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\Day3 Incremental Assignmnet\obj\Debug\Day3 Incremental Assignmnet.exe
+S:\Apps\Dot Net\Day3 Incremental Assignmnet\obj\Debug\Day3 Incremental Assignmnet.pdb
