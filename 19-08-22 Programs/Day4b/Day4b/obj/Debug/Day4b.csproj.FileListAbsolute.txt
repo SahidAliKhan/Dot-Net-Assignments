@@ -1,0 +1,8 @@
+S:\Apps\Dot Net\Day4b\Day4b\bin\Debug\Day4b.exe.config
+S:\Apps\Dot Net\Day4b\Day4b\bin\Debug\Day4b.exe
+S:\Apps\Dot Net\Day4b\Day4b\bin\Debug\Day4b.pdb
+S:\Apps\Dot Net\Day4b\Day4b\obj\Debug\Day4b.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\Day4b\Day4b\obj\Debug\Day4b.csproj.SuggestedBindingRedirects.cache
+S:\Apps\Dot Net\Day4b\Day4b\obj\Debug\Day4b.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\Day4b\Day4b\obj\Debug\Day4b.exe
+S:\Apps\Dot Net\Day4b\Day4b\obj\Debug\Day4b.pdb
