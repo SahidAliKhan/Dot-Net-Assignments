@@ -1,0 +1,6 @@
+S:\Apps\Dot Net\ReusuableCodeLibrary\bin\Debug\ReusuableCodeLibrary.dll
+S:\Apps\Dot Net\ReusuableCodeLibrary\bin\Debug\ReusuableCodeLibrary.pdb
+S:\Apps\Dot Net\ReusuableCodeLibrary\obj\Debug\ReusuableCodeLibrary.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\ReusuableCodeLibrary\obj\Debug\ReusuableCodeLibrary.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\ReusuableCodeLibrary\obj\Debug\ReusuableCodeLibrary.dll
+S:\Apps\Dot Net\ReusuableCodeLibrary\obj\Debug\ReusuableCodeLibrary.pdb

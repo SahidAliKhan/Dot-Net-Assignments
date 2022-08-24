@@ -1,0 +1,6 @@
+S:\Apps\Dot Net\LogicOfApp\bin\Debug\LogicOfApp.dll
+S:\Apps\Dot Net\LogicOfApp\bin\Debug\LogicOfApp.pdb
+S:\Apps\Dot Net\LogicOfApp\obj\Debug\LogicOfApp.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\LogicOfApp\obj\Debug\LogicOfApp.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\LogicOfApp\obj\Debug\LogicOfApp.dll
+S:\Apps\Dot Net\LogicOfApp\obj\Debug\LogicOfApp.pdb

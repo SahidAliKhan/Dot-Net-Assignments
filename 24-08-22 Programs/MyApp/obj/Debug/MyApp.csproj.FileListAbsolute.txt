@@ -1,0 +1,11 @@
+S:\Apps\Dot Net\MyApp\bin\Debug\MyApp.exe.config
+S:\Apps\Dot Net\MyApp\bin\Debug\MyApp.exe
+S:\Apps\Dot Net\MyApp\bin\Debug\MyApp.pdb
+S:\Apps\Dot Net\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\MyApp\obj\Debug\MyApp.csproj.SuggestedBindingRedirects.cache
+S:\Apps\Dot Net\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\MyApp\obj\Debug\MyApp.exe
+S:\Apps\Dot Net\MyApp\obj\Debug\MyApp.pdb
+S:\Apps\Dot Net\MyApp\bin\Debug\ReusuableCodeLibrary.dll
+S:\Apps\Dot Net\MyApp\bin\Debug\ReusuableCodeLibrary.pdb
+S:\Apps\Dot Net\MyApp\obj\Debug\MyApp.csproj.CopyComplete
