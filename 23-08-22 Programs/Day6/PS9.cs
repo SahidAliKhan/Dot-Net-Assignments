@@ -87,7 +87,6 @@ namespace Day6
                     return Ename;
                 }
 
-
             }
             public void Display()
             {
