@@ -37,6 +37,7 @@ namespace Day8
                     Environment.Exit(1);
                     break;
             }
+            
             Console.ReadLine();
         }
     }
