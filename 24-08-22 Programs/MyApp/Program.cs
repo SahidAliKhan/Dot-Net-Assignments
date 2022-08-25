@@ -26,7 +26,6 @@ namespace MyApp
             Console.WriteLine("firstFile.txt got Created in MyApp Console.");
             
             Console.ReadLine();
-
         }
     }
 }
