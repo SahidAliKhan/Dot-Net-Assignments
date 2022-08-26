@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day9", "Day9.csproj", "{3BA8C6D9-EE8C-4420-ADC0-590ED6166B46}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7E1A5991-208A-4D88-9B86-EA8C2E899F69} = {7E1A5991-208A-4D88-9B86-EA8C2E899F69}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRLibrary", "..\HRLibrary\HRLibrary.csproj", "{7E1A5991-208A-4D88-9B86-EA8C2E899F69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA8C6D9-EE8C-4420-ADC0-590ED6166B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA8C6D9-EE8C-4420-ADC0-590ED6166B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA8C6D9-EE8C-4420-ADC0-590ED6166B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA8C6D9-EE8C-4420-ADC0-590ED6166B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E1A5991-208A-4D88-9B86-EA8C2E899F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1A5991-208A-4D88-9B86-EA8C2E899F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1A5991-208A-4D88-9B86-EA8C2E899F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1A5991-208A-4D88-9B86-EA8C2E899F69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC044D61-DF3A-4A1E-8D3E-08CDFA27F6B3}
+	EndGlobalSection
+EndGlobal
