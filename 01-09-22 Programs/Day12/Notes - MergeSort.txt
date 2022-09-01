@@ -1,0 +1,43 @@
+﻿The Merge Sort algorithm is a sorting algorithm that is considered an example of the divide and conquer strategy.
+So, in this algorithm, the array is initially divided into two equal halves and then they are combined in a sorted manner.
+We can think of it as a recursive algorithm that continuously splits the array in half until it cannot be further divided.
+This means that if the array becomes empty or has only one element left, the dividing will stop, i.e. it is the base case to stop the recursion.
+If the array has multiple elements, we split the array into halves and recursively invoke the merge sort on each of the halves.
+Finally, when both the halves are sorted, the merge operation is applied.
+Merge operation is the process of taking two smaller sorted arrays and combining them to eventually make a larger one.
+
+Pseudocode :
+•    Declare left variable to 0 and right variable to n-1 
+•    Find mid by medium formula. mid = (left+right)/2
+•    Call merge sort on (left,mid)
+•    Call merge sort on (mid+1,rear)
+•    Continue till left is less than right
+•    Then call merge function to perform merge sort.
+
+Algorithm:
+step 1: start
+step 2: declare array and left, right, mid variable 
+step 3: perform merge function.
+        mergesort(array,left,right)
+        mergesort (array, left, right)
+        if left > right
+        return
+        mid= (left+right)/2
+        mergesort(array, left, mid)
+        mergesort(array, mid+1, right)
+        merge(array, left, mid, right)
+step 4: Stop
+
+
+MergeSort(arr[], l,  r)
+
+If r > l
+
+Find the middle point to divide the array into two halves: 
+middle m = l + (r – l)/2
+Call mergeSort for first half:   
+Call mergeSort(arr, l, m)
+Call mergeSort for second half:
+Call mergeSort(arr, m + 1, r)
+Merge the two halves sorted in step 2 and 3:
+Call merge(arr, l, m, r)
