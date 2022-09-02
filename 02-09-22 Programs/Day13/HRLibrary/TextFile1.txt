@@ -1,0 +1,11 @@
+﻿﻿Static Variable---- can be used in static methods
+	          ------cna be used in nonstatic method
+			  ------cna be used in static constructor
+----------------------------------------
+
+Non static variable--- can be used in static Methods by creating object  of the class
+	               ----- can be used in non static methods by creating object  of the class
+				   -----Cannot be used in static constructor
+
+****************************************************************************
+All variables,fields ,methods etc must be in side the class only, not allowed in  namespace.

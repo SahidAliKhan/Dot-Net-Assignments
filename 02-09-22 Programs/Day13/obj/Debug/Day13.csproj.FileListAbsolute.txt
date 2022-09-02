@@ -1,0 +1,11 @@
+S:\Apps\Dot Net\Day13\obj\Debug\Day13.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\Day13\obj\Debug\Day13.csproj.SuggestedBindingRedirects.cache
+S:\Apps\Dot Net\Day13\obj\Debug\Day13.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\Day13\bin\Debug\Day13.exe.config
+S:\Apps\Dot Net\Day13\bin\Debug\Day13.exe
+S:\Apps\Dot Net\Day13\bin\Debug\Day13.pdb
+S:\Apps\Dot Net\Day13\bin\Debug\HRLibrary.dll
+S:\Apps\Dot Net\Day13\bin\Debug\HRLibrary.pdb
+S:\Apps\Dot Net\Day13\obj\Debug\Day13.csproj.CopyComplete
+S:\Apps\Dot Net\Day13\obj\Debug\Day13.exe
+S:\Apps\Dot Net\Day13\obj\Debug\Day13.pdb
