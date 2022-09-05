@@ -1,0 +1,6 @@
+S:\Apps\Dot Net\Day14\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+S:\Apps\Dot Net\Day14\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+S:\Apps\Dot Net\Day14\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\Day14\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\Day14\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+S:\Apps\Dot Net\Day14\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

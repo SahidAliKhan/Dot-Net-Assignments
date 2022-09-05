@@ -1,0 +1,34 @@
+﻿
+The virtual keyword is used to modify a method, property, indexer, or event declared
+in the base class and allow it to be overridden in the derived class. 
+
+The override keyword is used to extend or modify a virtual/abstract method, property, 
+indexer, or event of base class into a derived class.
+
+What is Overloading and Overriding?
+When two or more methods in the same class have the same name but different parameters, 
+it's called Overloading. 
+When the method signature (name and parameters) are the same in the superclass and 
+the child class, it's called Overriding.
+
+Now the keywords are all about Polymorphism
+Base b = new Derived();
+
+1- Using virtual in base class and override in Derived will give D(Polymorphism).
+
+2- Using override without virtual in Base will give error.
+
+3- Similarly writing a method (no override) with virtual will write 'B' with warning 
+(because no polymorphism is done).
+
+4- To hide such warning as in above point write new before that simple method in Derived.
+
+5- new keyword is another story, it simply hides the warning that tells that the property 
+with same name is there in base class.
+
+6- virtual or new both are same except new modifier
+
+7- new and override cannot be used before same method or property.
+
+8- sealed before any class or method lock it to be used in Derived class and 
+it gives a compile time error.
