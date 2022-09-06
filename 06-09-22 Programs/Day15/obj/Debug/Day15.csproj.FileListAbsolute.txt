@@ -1,0 +1,11 @@
+S:\Apps\Dot Net\Day15\bin\Debug\Day15.exe.config
+S:\Apps\Dot Net\Day15\bin\Debug\Day15.exe
+S:\Apps\Dot Net\Day15\bin\Debug\Day15.pdb
+S:\Apps\Dot Net\Day15\bin\Debug\Library1.dll
+S:\Apps\Dot Net\Day15\bin\Debug\Library1.pdb
+S:\Apps\Dot Net\Day15\obj\Debug\Day15.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\Day15\obj\Debug\Day15.csproj.SuggestedBindingRedirects.cache
+S:\Apps\Dot Net\Day15\obj\Debug\Day15.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\Day15\obj\Debug\Day15.csproj.CopyComplete
+S:\Apps\Dot Net\Day15\obj\Debug\Day15.exe
+S:\Apps\Dot Net\Day15\obj\Debug\Day15.pdb
