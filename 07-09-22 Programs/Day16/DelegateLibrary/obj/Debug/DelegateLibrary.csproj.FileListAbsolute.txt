@@ -1,0 +1,6 @@
+S:\Apps\Dot Net\Day16\DelegateLibrary\bin\Debug\DelegateLibrary.dll
+S:\Apps\Dot Net\Day16\DelegateLibrary\bin\Debug\DelegateLibrary.pdb
+S:\Apps\Dot Net\Day16\DelegateLibrary\obj\Debug\DelegateLibrary.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\Day16\DelegateLibrary\obj\Debug\DelegateLibrary.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\Day16\DelegateLibrary\obj\Debug\DelegateLibrary.dll
+S:\Apps\Dot Net\Day16\DelegateLibrary\obj\Debug\DelegateLibrary.pdb
