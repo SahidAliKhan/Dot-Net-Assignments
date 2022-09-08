@@ -50,4 +50,3 @@ namespace ConsoleApp1
         }
     }
 }
-
