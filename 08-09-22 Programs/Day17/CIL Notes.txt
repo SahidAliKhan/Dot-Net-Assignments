@@ -1,0 +1,73 @@
+﻿The code which is not compiled by the .NET CLR is unmanaged code (C++,VC++,VB,Java)
+--------------------------------------------------------------------------
+
+	Source Code----> Language Specific Compiler----> 
+
+		MSIL/IL(PE)(Managed code) (Assembly) -------> JIT Compiler----> Native Code(Machine Level Language Code)
+syntax error: compile time-- easy to fix
+runtime error: after succesful compilation, while executing the program u get runtime error.
+
+Assembly ------Platform independent language--- can run it on any OS(any version of windows)
+
+but if is .net core, ----> it is really platform(can run on any OS)
+
+
+			
+ 1) JIT compiler---Just In time Compiler
+
+3 Types fo JIT
+
+1) Std --->Laptops/Desktop etc
+2) Pre -------------------------> Already JIT code is used to save time and resources when deploying the app
+3) Econo-----> Low Memory considerations ----> like Phones,Tablets,Phablets etc
+
+
+CLR----> 
+
+MS Coree (Microsoft Commom Runtime EXecution Engine)
+	It provides the ability to connect to different devices,servers.
+        It contains all fundamental functions of the .NET framework
+      Used of quickly building,managing, deploying and for security enhanced solutions using Web Services.
+Web Services----> service/s hosted over the web. 
+		They are not blocked by any systems. they are open to use ---using http & https.
+
+	 
+	_CoreExeMain function
+1) main job is to initialize the CLR
+2) find the entry point of the program in the executable assembly's CLR header and begins the execution.
+this _CoreExeMain is called by Class loader in the processes created from  managed executable assemblies
+
+If dll Assembly, then "_CoreDLLMain" is used.
+
+Executing the assembly in & by CLR:
+It helps to execute the program on the OS.
+CLR provides features:
+1) Garbage Collection:
+
+   Gen 0:Short Lived Objects
+   Gen 1: Medium Lived Objects 
+   Gen 2: Long Lived Objects
+LRU(Least Recently Used Algorith) the object on the heap will be marked for garbage collected and garbage collected using the destructor and the finalize methods, if done manually.
+SuppressFinalize() so that Finalize() is not called.
+
+2) Code Verification: whether the code is from trusted resource.
+3) Code Access Security: whether the code must be executed, viewed or what r the rights available to the logged in person, for
+the code that the user is trying to execute/compile or share etc
+
+4) IL code to Native code conversion
+5) Memory Management
+
+
+	dumpbin.exe ---- > its a exe that installs with VC++, under the "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\"
+ Browse to the path, using 
+
+cd C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\
+
+dumpbin /all/imports "D:\Sulakshana\MphasisAugust\UnsafeCodeDemo\UnsafeCodeDemo\bin\Debug\UnsafeCodeDemo.exe"
+
+
+Demo.pdb
+DLL will also be there.
+
+     ----RVA(Relative Virtual Address) means current address where its loaded.
+Actual hard disk addrss will be different.
