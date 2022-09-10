@@ -1,0 +1,6 @@
+S:\Apps\Dot Net\Day18\Library1\bin\Debug\Library1.dll
+S:\Apps\Dot Net\Day18\Library1\bin\Debug\Library1.pdb
+S:\Apps\Dot Net\Day18\Library1\obj\Debug\Library1.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\Day18\Library1\obj\Debug\Library1.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\Day18\Library1\obj\Debug\Library1.dll
+S:\Apps\Dot Net\Day18\Library1\obj\Debug\Library1.pdb

@@ -1,0 +1,11 @@
+S:\Apps\Dot Net\Day18\bin\Debug\Day18.exe.config
+S:\Apps\Dot Net\Day18\bin\Debug\Day18.exe
+S:\Apps\Dot Net\Day18\bin\Debug\Day18.pdb
+S:\Apps\Dot Net\Day18\bin\Debug\Library1.dll
+S:\Apps\Dot Net\Day18\bin\Debug\Library1.pdb
+S:\Apps\Dot Net\Day18\obj\Debug\Day18.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\Day18\obj\Debug\Day18.csproj.SuggestedBindingRedirects.cache
+S:\Apps\Dot Net\Day18\obj\Debug\Day18.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\Day18\obj\Debug\Day18.csproj.CopyComplete
+S:\Apps\Dot Net\Day18\obj\Debug\Day18.exe
+S:\Apps\Dot Net\Day18\obj\Debug\Day18.pdb

@@ -1,0 +1,62 @@
+﻿﻿MutliTasking: It is simultaneous execution of multiple tasks or processes over a 
+certain time interval.
+Windows OS: 
+Process-- Is a part of OS that is responsible for executing the application.
+Every program that executes is a process and to run the code inside the application 
+a process uses a THREAD.
+A thread is lightweight process which the excutes the code under the program, so every 
+program has a logic and a thread is responsible for executing the logic, and for every
+program the logic starts from the main method(main thread).
+
+Every main thread is a single threaded model and because of this the other thread has
+to wait for its turn, because each thread runs in a synchronized manner, ie one AFTER 
+THE OTHER.
+-------------------------------------------
+Multithreading is a process that contains multiple threads within a single process.
+-----------------------------------------------
+
+Advantages:
+1) It executes multiple process simultaneously
+2) Maximize the utilization of the CPU
+3) Time sharing between multiple processes.
+------------------------------------------
+Types of Threads:
+1) Foreground  Thread:  A thread whihc continues the work, even if the main thread leaves the process.
+This is called as Foreground thread.
+doesnot matter for the foreground whether main is alive or dead, it leaves 
+only when it completes the assigned work.
+The life of foreground thread doesnot depend on the main thread.
+
+2) Background Thread: It will leave the process when main method leaves.
+Life is dependent on the main thread.
+
+------------------------------------------------------
+using System.Threading
+Thread
+ThreadPool
+Mutex
+Monitor
+Semaphore
+Semaphore Slim
+Timer
+ThreadStorage
+-----------------------------------
+thread states:
+Unstarted---(runnable)--start()---->started---->running
+
+running-----wait/sleep/join----sleep()/join()/wait()-----(NotRunnable)
+running-----suspend----suspend()
+running----abort-----abort()----dead/either after completing the task
+running-----block---i/o
+
+star------->block
+-----------------------------------------
+Monitor is a mechanism for ensuring that only one thread at a time may be running a particular
+code .
+A monitor has a lock, and only  one thread at a time can acquire it.
+
+Info maintained by synchronized object
+1) A reference a reference to the thread that currently holds the lock.
+2) A reference to a ready queue, which contains the thread/s that r ready to obtain the lock.
+3) A refernce to waiting queue, whcih contains thread that are waiting for notification of a 
+change in the state of the locked object.
