@@ -1,0 +1,8 @@
+S:\Apps\Dot Net\Day19PS\bin\Debug\Day19PS.exe.config
+S:\Apps\Dot Net\Day19PS\bin\Debug\Day19PS.exe
+S:\Apps\Dot Net\Day19PS\bin\Debug\Day19PS.pdb
+S:\Apps\Dot Net\Day19PS\obj\Debug\Day19PS.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\Day19PS\obj\Debug\Day19PS.csproj.SuggestedBindingRedirects.cache
+S:\Apps\Dot Net\Day19PS\obj\Debug\Day19PS.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\Day19PS\obj\Debug\Day19PS.exe
+S:\Apps\Dot Net\Day19PS\obj\Debug\Day19PS.pdb

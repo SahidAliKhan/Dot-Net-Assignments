@@ -1,0 +1,41 @@
+﻿﻿Reflection
+-----------
+using/calling the assembly/code at runtime.
+
+
+
+Code-----> class Library-----> MyMathsLibrary.dll
+//One Class/Multiple Class
+
+class Maths
+{
+public int add(int i, int j)
+{
+//code
+}
+
+//property
+//static field
+and other things//constructors/destructors
+
+
+}
+--------------------------------------------------------
+1) Build 
+2) Add reference
+3) Project Dependencies
+4) Create the object of the class and call the methods(Compile time)
+--------------------------------------------------------
+In Reflection:
+1) Create and Build the library
+2) Path of the library.
+3) Code and create the object of the class at runtime and also call the methods (At Runtime)
+using System.Reflection;
+-----------------------------------
+Why/When to use Reflection?
+It is used when the dll is given to u, but u donot have the code or the code
+base with you.
+If some code is shared in dll form, we use Reflection.
+Extract information about the dll, methods,properties,(members) of the assembly,
+we use Reflection. 
+We use this info to call the methods of the dll.

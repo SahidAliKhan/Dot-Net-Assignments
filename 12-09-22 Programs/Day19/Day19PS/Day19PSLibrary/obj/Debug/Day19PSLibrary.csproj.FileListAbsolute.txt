@@ -1,0 +1,6 @@
+S:\Apps\Dot Net\Day19PS\Day19PSLibrary\bin\Debug\Day19PSLibrary.dll
+S:\Apps\Dot Net\Day19PS\Day19PSLibrary\bin\Debug\Day19PSLibrary.pdb
+S:\Apps\Dot Net\Day19PS\Day19PSLibrary\obj\Debug\Day19PSLibrary.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\Day19PS\Day19PSLibrary\obj\Debug\Day19PSLibrary.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\Day19PS\Day19PSLibrary\obj\Debug\Day19PSLibrary.dll
+S:\Apps\Dot Net\Day19PS\Day19PSLibrary\obj\Debug\Day19PSLibrary.pdb

@@ -1,0 +1,21 @@
+﻿﻿Custom Attributes
+------------------
+
+Attribute means giving extra information about a method,property,etc.
+When developer/programmer creates his own attribute its called Custom Attribute.
+
+
+
+
+
+Built in attributes--- special meaning to the class,method etc.
+Serializable-----
+Non Serializable-----
+-------------------------------------------------------------
+
+
+
+software Company----> 
+employee code---- > 
+
+Developer(name,dt) etc

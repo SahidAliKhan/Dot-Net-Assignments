@@ -1,0 +1,6 @@
+S:\Apps\Dot Net\Day19\ReflectionLibrary\bin\Debug\ReflectionLibrary.dll
+S:\Apps\Dot Net\Day19\ReflectionLibrary\bin\Debug\ReflectionLibrary.pdb
+S:\Apps\Dot Net\Day19\ReflectionLibrary\obj\Debug\ReflectionLibrary.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\Day19\ReflectionLibrary\obj\Debug\ReflectionLibrary.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\Day19\ReflectionLibrary\obj\Debug\ReflectionLibrary.dll
+S:\Apps\Dot Net\Day19\ReflectionLibrary\obj\Debug\ReflectionLibrary.pdb
