@@ -1,6 +1,0 @@
-S:\Apps\Dot Net\Retrieve Student Data\StudentLibrary\bin\Debug\StudentLibrary.dll
-S:\Apps\Dot Net\Retrieve Student Data\StudentLibrary\bin\Debug\StudentLibrary.pdb
-S:\Apps\Dot Net\Retrieve Student Data\StudentLibrary\obj\Debug\StudentLibrary.csproj.AssemblyReference.cache
-S:\Apps\Dot Net\Retrieve Student Data\StudentLibrary\obj\Debug\StudentLibrary.csproj.CoreCompileInputs.cache
-S:\Apps\Dot Net\Retrieve Student Data\StudentLibrary\obj\Debug\StudentLibrary.dll
-S:\Apps\Dot Net\Retrieve Student Data\StudentLibrary\obj\Debug\StudentLibrary.pdb
