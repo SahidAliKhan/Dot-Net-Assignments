@@ -1,0 +1,36 @@
+Create a Class Library for the following:
+A) User Module
+1) User should be able to search for different movies based on language and genres.
+2) User once he logins in successfully to his account should be presented with the 
+   top ten movies that are currently being rented by other people.
+3) User should be classified as silver, gold and platinum category where Silver type
+   of user can borrow total of 2 movies, gold can borrow 3 movies and platinum user 
+   can borrow 5 movies as maximum movies currently rented. No more rental is allowed 
+   if the limit is reached
+4) Once the movie is borrowed by a customer the stock available to be reduced by one 
+   and when returned stock should be increased by one.
+5) User should be able to rent these movies for a day and return it and cost should 
+   be calculated depending upon how many days the movie is there with the customer and 
+   10% of the cost of the movie Blu ray cost per day should be computed and 18% GST has 
+   to be added on the cost. 
+6) User should be able to cancel his rental if the rental is not delivered.
+
+
+B) Admin Module
+Admin User
+1)    Should be able to add customer details . Customer should be identified by his 
+      unique mobile number.
+2)    Should be able to Add, Update and delete movies into the database
+3)    Approve the movie rental placed by users and stock should be reduced by one for
+      that movie.
+4)    Assign the movie to be delivered to Delivery user.
+5)    Any outstanding movies not returned by users more than 10 days should be shown
+       to admin as a list.
+
+C) Common Options: Create it as Shared Assembly, ie register this into GAC.
+1)    All Users should be able to change password. New password should be prompted 
+      to change every month.
+2)    All user should be able to View and edit profile.
+
+
+create 3 different class libraries.
