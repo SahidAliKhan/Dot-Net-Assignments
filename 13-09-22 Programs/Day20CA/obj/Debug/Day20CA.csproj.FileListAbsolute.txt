@@ -1,0 +1,11 @@
+S:\Apps\Dot Net\Day20CA\bin\Debug\Day20CA.exe.config
+S:\Apps\Dot Net\Day20CA\bin\Debug\Day20CA.exe
+S:\Apps\Dot Net\Day20CA\bin\Debug\Day20CA.pdb
+S:\Apps\Dot Net\Day20CA\bin\Debug\Day20.dll
+S:\Apps\Dot Net\Day20CA\bin\Debug\Day20.pdb
+S:\Apps\Dot Net\Day20CA\obj\Debug\Day20CA.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\Day20CA\obj\Debug\Day20CA.csproj.SuggestedBindingRedirects.cache
+S:\Apps\Dot Net\Day20CA\obj\Debug\Day20CA.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\Day20CA\obj\Debug\Day20CA.csproj.CopyComplete
+S:\Apps\Dot Net\Day20CA\obj\Debug\Day20CA.exe
+S:\Apps\Dot Net\Day20CA\obj\Debug\Day20CA.pdb

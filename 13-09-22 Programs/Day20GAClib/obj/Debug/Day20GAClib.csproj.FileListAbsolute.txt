@@ -1,0 +1,6 @@
+S:\Apps\Dot Net\Day20\bin\Debug\Day20.dll
+S:\Apps\Dot Net\Day20\bin\Debug\Day20.pdb
+S:\Apps\Dot Net\Day20\obj\Debug\Day20GAClib.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\Day20\obj\Debug\Day20GAClib.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\Day20\obj\Debug\Day20.dll
+S:\Apps\Dot Net\Day20\obj\Debug\Day20.pdb

@@ -1,0 +1,69 @@
+﻿﻿When we compile any code using .Net CLR, we get an assembly.
+
+Assembly: Smallest unit of deployment.
+It has code and metadata with it. Info is stored in the project under Properties(Solution Explorer),
+AssemblyInfo.cs
+
+Metadata consists of Version Number: which has 4 parts.
+4 parts are:
+  Major Version---2
+     Minor Version---1
+      Build Number----5
+      Revision------4 
+
+    Version no:  2.1.5.4
+    The version no differentiates one assembly from another.
+  why this version number required?
+
+To solve the DLL hell problem.
+
+DLL Hell----> if one assembly with a name "A.dll", is created, working 
+and used with multiple projects successfully, if a particular project in the group wants
+some amendments to this existing dll(assembly), then the other projects which were using
+the assembly successfully may face a challenge using some of the fuctionalities,which 
+may be amended for the requirement.
+To avoid this dilemma, we use a version number to differentiate assembly with the same name
+which are already registered in the Global Assembly Cache(GAC), the place from where 
+multiple projects can share the code.
+--------------------------------------------------------------------------------
+
+There are 3 types of assemblies
+1) Private ------- whenever we create a library, it is private resource for a single project.
+If that same code, is to be used across projects, we need to share the code.
+Why?
+Becoz, if we donot make it shared copies of the code will get created which utilizes 
+memory resource.
+
+2) Shared/Public : Making it shared means, registering it into GAC(Global Assembly Cache) using 
+version no.
+
+------------------------------------------------------------------------------
+3) Satellite----which are used for Localization and Globalization purpose.
+Globalization: A resource created by a process for the users across the Globe(multiple cultures).
+Localization: A resouce created by a process for  customization  to make our app behave
+as per the current culture and locale.
+
+
+Global Resources:
+These are .resx (Resource ) files.
+
+en----Good morning
+hi----Shubh Hindi
+de----Bonjour
+
+greet.en-US.resx
+greet.hi-IN.resx
+greet.de-GE.resx
+----------------------------------------------------------
+
+Steps for registering assembly in GAC:
+1) Create and build an assembly.
+2) sign the assembly: Go the properties, Signing Tab: Sign the assembly check box true,
+name of the signfile.snk.
+Build the assembly.
+
+3) register into GAC: Open Administrator Developer Command Prompt
+
+gacutil /i "Path of assemly (Till .dll)"
+
+How to open the GAC:
