@@ -1,0 +1,13 @@
+S:\Apps\Dot Net\Day21PS\bin\Debug\Day21PS.exe.config
+S:\Apps\Dot Net\Day21PS\bin\Debug\Day21PS.exe
+S:\Apps\Dot Net\Day21PS\bin\Debug\Day21PS.pdb
+S:\Apps\Dot Net\Day21PS\obj\Debug\Day21PS.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\Day21PS\obj\Debug\Day21PS.csproj.SuggestedBindingRedirects.cache
+S:\Apps\Dot Net\Day21PS\obj\Debug\Day21PS.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\Day21PS\obj\Debug\Day21PS.exe
+S:\Apps\Dot Net\Day21PS\obj\Debug\Day21PS.pdb
+S:\Apps\Dot Net\Day21PS\bin\Debug\Day21Library.dll
+S:\Apps\Dot Net\Day21PS\bin\Debug\Day21Library.pdb
+S:\Apps\Dot Net\Day21PS\obj\Debug\Day21PS.csproj.CopyComplete
+S:\Apps\Dot Net\Day21PS\bin\Debug\Newtonsoft.Json.dll
+S:\Apps\Dot Net\Day21PS\bin\Debug\Newtonsoft.Json.xml

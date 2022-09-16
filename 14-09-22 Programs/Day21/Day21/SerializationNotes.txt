@@ -1,0 +1,88 @@
+﻿﻿Serialization
+--------------
+
+1) What is Serialization
+Process of converting a object into a stream of bytes, to store the object 
+state or transfer it to the memory,database,file.
+
+serialization uses files
+
+class customer 
+{
+custid
+purchases
+creditlimitPurchase
+
+}
+
+File c1.xml
+c1-----101,2000,8000----1st aug-----state of the  customer as particualr date
+            1000,7000-----7th sept
+            7000,0------
+
+c2------102,100,9900
+*****************************************************
+Pre-requisites for the class to be followed:
+---------------------------------------------
+1) the class that u want to make object of must be marked 
+with a attribute called
+[Serializable()](Process of converting a object into a stream of bytes)
+built-in attributes---- [Serializable()]
+using System namespace.
+
+
+2) built-in attributes---[NonSerialized()]
+
+Serialized------> Write
+Deserialize-----> Read
+
+3) All the members of the class must be public.
+*****************************************************
+
+2) Why---
+
+To persist the data(file/database/memory) for future use
+
+----------------------------------------------
+3) How
+
+4) Types
+1) XML Serialization/Shallow Serialization-----custom Serialization
+using System.Xml.Serialization;
+non-serialized----- the data will be written to the file.
+private setters----not allowed
+
+****Valid and Well-formed XML document.
+data is very clean & readBle
+
+
+
+2) Binary Serialization/Deep Serialization ----Light & compact, used in Remoting
+non-serialized----- the data will not be written to the file.
+Remoting---transferring data from one computer to another.
+using System.Runtime.Serilization.Formatters.Binary;
+private setters----allowed
+data is secured
+
+
+
+3) Json Serialization--- Light & compact, used to work with API calling
+{"empid":"101",user:"Raj"}
+var user={"empid":"101",user:"Raj"}
+
+var users=[{"empid":"101",user:"Raj"},{"empid":"102",user:"Rajesh"}]
+
+1) Using JavaScriptSerializer class----using System.Web.Extensions
+2) Using DataContractJsonSerializer------Windows Communication Foundation ---technology that 
+can send data over the internet and intranet using any protocol of your choice.
+3) Using Json.NET library
+4) Using newtonsoft.json---- 
+
+non-serialized----- the data will be written to the file.
+
+
+
+4) SOAP Serialization--------Interoperable use & Web services/XML Web Services
+SOAP-----Simple Object Access Protocol---- similar to xml serialization
+
+5) When to use what

@@ -1,0 +1,6 @@
+S:\Apps\Dot Net\Day21PS\Day21Library\bin\Debug\Day21Library.dll
+S:\Apps\Dot Net\Day21PS\Day21Library\bin\Debug\Day21Library.pdb
+S:\Apps\Dot Net\Day21PS\Day21Library\obj\Debug\Day21Library.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\Day21PS\Day21Library\obj\Debug\Day21Library.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\Day21PS\Day21Library\obj\Debug\Day21Library.dll
+S:\Apps\Dot Net\Day21PS\Day21Library\obj\Debug\Day21Library.pdb

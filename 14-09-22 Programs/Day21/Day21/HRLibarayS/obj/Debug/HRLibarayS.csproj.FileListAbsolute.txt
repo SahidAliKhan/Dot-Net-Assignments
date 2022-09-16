@@ -1,0 +1,6 @@
+S:\Apps\Dot Net\Day21\HRLibarayS\bin\Debug\HRLibarayS.dll
+S:\Apps\Dot Net\Day21\HRLibarayS\bin\Debug\HRLibarayS.pdb
+S:\Apps\Dot Net\Day21\HRLibarayS\obj\Debug\HRLibarayS.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\Day21\HRLibarayS\obj\Debug\HRLibarayS.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\Day21\HRLibarayS\obj\Debug\HRLibarayS.dll
+S:\Apps\Dot Net\Day21\HRLibarayS\obj\Debug\HRLibarayS.pdb
