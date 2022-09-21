@@ -38,7 +38,7 @@ select * into Member101 from Member
 --select * into Member102 from Member where 1=2 //without data
 
 insert into Book values(101,'Let us C',	'Denis Ritchie', 450 , 'System')
-insert into Book values(102, 'Oracle – Complete Ref', 'Loni', 550	,'Database')
+insert into Book values(102, 'Oracle â€“ Complete Ref', 'Loni', 550	,'Database')
 insert into Book values(103, 'Mastering SQL', 'Loni', 250, 'Database')
 insert into Book values(104, 'PL SQL-Ref', 'Scott Urman', 750, 'Database')
 
@@ -157,3 +157,4 @@ select avg(Cost) as Average_Price_Book from Book
 select * from Member
 select * from Issue
 select * from Book
+
