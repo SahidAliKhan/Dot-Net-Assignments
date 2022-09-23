@@ -1,7 +1,5 @@
 ﻿Introduction to Data Access Components,Introduction to ADO.Net,Connected Model and Dis-Connected Model, how to connect App with MS-SQL Server + Demo
 
-
-
 SQL SERVER---->  database 
 	         reporting
 		analysis
