@@ -1,0 +1,8 @@
+S:\Apps\Dot Net\DotNetDay1PS\bin\Debug\DotNetDay1PS.exe.config
+S:\Apps\Dot Net\DotNetDay1PS\bin\Debug\DotNetDay1PS.exe
+S:\Apps\Dot Net\DotNetDay1PS\bin\Debug\DotNetDay1PS.pdb
+S:\Apps\Dot Net\DotNetDay1PS\obj\Debug\DotNetDay1PS.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\DotNetDay1PS\obj\Debug\DotNetDay1PS.csproj.SuggestedBindingRedirects.cache
+S:\Apps\Dot Net\DotNetDay1PS\obj\Debug\DotNetDay1PS.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\DotNetDay1PS\obj\Debug\DotNetDay1PS.exe
+S:\Apps\Dot Net\DotNetDay1PS\obj\Debug\DotNetDay1PS.pdb

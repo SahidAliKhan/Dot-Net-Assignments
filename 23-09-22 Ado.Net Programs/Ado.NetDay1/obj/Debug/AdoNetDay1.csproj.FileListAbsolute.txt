@@ -1,0 +1,3 @@
+S:\Apps\Dot Net\AdoNetDay1\obj\Debug\AdoNetDay1.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\AdoNetDay1\obj\Debug\AdoNetDay1.csproj.SuggestedBindingRedirects.cache
+S:\Apps\Dot Net\AdoNetDay1\obj\Debug\AdoNetDay1.csproj.CoreCompileInputs.cache

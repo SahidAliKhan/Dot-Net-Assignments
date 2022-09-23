@@ -1,0 +1,2 @@
+S:\Apps\Dot Net\AdoNetDay1\DAL_PubsDB\obj\Debug\DAL_PubsDB.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\AdoNetDay1\DAL_PubsDB\obj\Debug\DAL_PubsDB.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+S:\Apps\Dot Net\AdoNetDay1\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.dll
+S:\Apps\Dot Net\AdoNetDay1\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.pdb
+S:\Apps\Dot Net\AdoNetDay1\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\AdoNetDay1\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\AdoNetDay1\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.dll
+S:\Apps\Dot Net\AdoNetDay1\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.pdb

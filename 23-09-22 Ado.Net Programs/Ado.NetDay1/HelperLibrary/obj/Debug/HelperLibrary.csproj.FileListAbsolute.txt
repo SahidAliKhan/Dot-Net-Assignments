@@ -1,0 +1,2 @@
+S:\Apps\Dot Net\AdoNetDay1\HelperLibrary\obj\Debug\HelperLibrary.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\AdoNetDay1\HelperLibrary\obj\Debug\HelperLibrary.csproj.CoreCompileInputs.cache

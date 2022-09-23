@@ -1,0 +1,113 @@
+﻿Introduction to Data Access Components,Introduction to ADO.Net,Connected Model and Dis-Connected Model, how to connect App with MS-SQL Server + Demo
+
+
+
+SQL SERVER---->  database 
+	         reporting
+		analysis
+		integration
+
+----------------------------------------------------------------------
+
+SQL SERVER-----> database engine using C#----
+Provider Model
+Providers
+---------
+OLEDB
+ODBC
+SqlClient ---- .NET Framework Data Provider for SQL SERVER
+
+
+Access database----> C#
+Providers
+---------
+OLEDB
+ODBC
+-----------------------------------------------------------------------
+Service must be running state/status
+
+Servername--->  SPD
+
+Authentication---
+Windows Authentication-----> trusted--- OS----> Integrated Security=true
+or
+SQL server Authentication----->userid=****;password=*****
+
+database name------> Northwind
+
+Data Source=SPD;Initial Catalog=Northwind;Integrated Security=True
+server=SPD;database=Northwind;Integrated Security=True
+
+.NET Framework Data Provider for SQL Server------SqlClient
+
+----------------------------------------------------------------------------
+
+Provider + Credentials
+----------------------------------------------------------------------------
+
+Queries
+Stored Procedures
+Functions
+
+Queries------> Select--------------------------------> Rows of data--->Read
+				     DML Operations
+	       Insert/Update/Delete------------------> Row/s of data----> Write/read & write/write
+
+               Select Aggregate function----- Rows of data---read
+
+Stored Procedures----> Parameters/act on the data in the table----> write
+
+Functions----> Scalar-----Parameters/returns a single value-----> write/read
+	       Inline TV----Parameters/returns a matrix(R&C)----> write/read
+	      Multi-statement TV----Parameters/returns a matrix(R&C)----> write/read
+-----------------------------------------------------------------------------
+			1			2
+		Connected   		Connect/Save in the memory/Disconnect
+
+
+       Share Trading App----->1
+       Shopping App---------->2
+       Signals---------------->1
+
+Real time App---- Life, money -----> Connected---> upto date with the data
+Non Real time App--------------------------------> Disconnected
+
+--------------------------------------------------------------------------------------------
+					using System.Data.SqlClient
+							   using Sytem.Data
+							********************						Connected Architecture 			Disconnected Architecture
+****************************************************************************************
+	1)                            SqlConnection Class---object
+				      Parameterised Constructor(cnstring) --- 			servername,database,Integrated Authentication/SqlServer Authentication
+
+        2) SqlCommand Class--					SqlDataAdapter Class
+	3) SqlDataReader Class  				DataSet Class
+(Opening and closing connection is manual)			DataTable		
+							        DataRow
+								DataColumn
+							select query----Fill()---> disconnected	
+							SqlCommandBuilder---> connection---> Connect
+							(Opening and closing connection is automatic)	
+
+        4)Queries
+	  SP(Stored Procedures)				
+	  UDF(User Defined Functions=Scalar/TV's(Table valued))
+
+      Select----> ExecuteReader()  
+      Select with Aggregate Function---> ExecuteScalar()
+      I/U/D------>ExecuteNonQuery
+      SP/UDF----> ExecuteReader()
+	=============================================================================
+
+ Connect to the database---to get all data 
+1)(Class Lib) Business Logic Layer(BLL)----- Validations
+ BLL not depenedent on anything
+
+2)(Class Lib) Data Access Layer(DAL)----- SqlConnection etc--- add reference 1--- 
+DAL is dependent on BLL
+
+3)(Class Lib) Helper Layer---------Call the DAL-----add reference 1 and 2
+ Helper depenedent on BLL and DAL
+
+4) console App---- add reference of 1 and 3
+ Console  depenedent on BLL and Helper
