@@ -1,9 +1,0 @@
-S:\Apps\Dot Net\AdoNetDay2\DataAccessLayerLibrary\bin\Debug\DataAccessLayerLibrary.pdb
-S:\Apps\Dot Net\AdoNetDay2\DataAccessLayerLibrary\obj\Debug\DataAccessLayerLibrary.csproj.AssemblyReference.cache
-S:\Apps\Dot Net\AdoNetDay2\DataAccessLayerLibrary\obj\Debug\DataAccessLayerLibrary.csproj.CoreCompileInputs.cache
-S:\Apps\Dot Net\AdoNetDay2\DataAccessLayerLibrary\obj\Debug\DataAccessLayerLibrary.dll
-S:\Apps\Dot Net\AdoNetDay2\DataAccessLayerLibrary\obj\Debug\DataAccessLayerLibrary.pdb
-S:\Apps\Dot Net\AdoNetDay2\DataAccessLayerLibrary\bin\Debug\DataAccessLayerLibrary.dll.config
-S:\Apps\Dot Net\AdoNetDay2\DataAccessLayerLibrary\bin\Debug\BusinessLogicLayerLibrary.dll
-S:\Apps\Dot Net\AdoNetDay2\DataAccessLayerLibrary\bin\Debug\BusinessLogicLayerLibrary.pdb
-S:\Apps\Dot Net\AdoNetDay2\DataAccessLayerLibrary\obj\Debug\DataAccessLayerLibrary.csproj.CopyComplete

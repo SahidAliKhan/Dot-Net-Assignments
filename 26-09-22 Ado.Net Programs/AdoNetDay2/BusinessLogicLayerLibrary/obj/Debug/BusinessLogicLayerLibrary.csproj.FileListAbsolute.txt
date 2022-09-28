@@ -1,6 +1,0 @@
-S:\Apps\Dot Net\AdoNetDay2\BusinessLogicLayerLibrary\bin\Debug\BusinessLogicLayerLibrary.dll
-S:\Apps\Dot Net\AdoNetDay2\BusinessLogicLayerLibrary\bin\Debug\BusinessLogicLayerLibrary.pdb
-S:\Apps\Dot Net\AdoNetDay2\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.csproj.AssemblyReference.cache
-S:\Apps\Dot Net\AdoNetDay2\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.csproj.CoreCompileInputs.cache
-S:\Apps\Dot Net\AdoNetDay2\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.dll
-S:\Apps\Dot Net\AdoNetDay2\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.pdb
