@@ -1,0 +1,48 @@
+﻿CREATE PROCEDURE [dbo].sp_UpdateEmployee
+	@p_empid int,
+	@p_fname nvarchar(10),
+	@p_lname  nvarchar(20),
+	@p_title nvarchar(30),
+	@p_birthdate datetime
+
+AS
+	update Employees
+	set FirstName=@p_fname,
+	LastName=@p_lname,
+	Title=@p_title,
+	BirthDate=@p_birthdate
+	where EmployeeID=@p_empid;
+RETURN 0
+------------------------------------------------
+CREATE PROCEDURE [dbo].sp_DeleteEmployee
+	@p_empid int
+	
+AS
+	Delete from Employees
+	where EmployeeID=@p_empid;
+RETURN 0
+--------------------------------------
+
+CREATE PROCEDURE [dbo].sp_FindEmployee
+	@p_empid int,
+	@p_firstname nvarchar(10) output,
+	@p_lastname nvarchar(20) output,
+	@p_title nvarchar(30) output,
+	@p_bdate datetime output
+
+AS
+	SELECT @p_firstname=FirstName, @p_lastname=LastName,@p_title=Title,
+	@p_bdate=BirthDate  
+	from Employees
+	where EmployeeID=@p_empid;
+
+RETURN 0
+---------------------------------------------------------
+
+
+CREATE FUNCTION [dbo].fn_Emplist
+()
+RETURNS TABLE AS RETURN
+(
+	SELECT EmployeeID,FirstName,LastName,Title,BirthDate from Employees
+)

@@ -1,0 +1,16 @@
+S:\Apps\Dot Net\AdoNetDay2\bin\Debug\AdoNetDay2.exe.config
+S:\Apps\Dot Net\AdoNetDay2\bin\Debug\AdoNetDay2.exe
+S:\Apps\Dot Net\AdoNetDay2\bin\Debug\AdoNetDay2.pdb
+S:\Apps\Dot Net\AdoNetDay2\obj\Debug\AdoNetDay2.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\AdoNetDay2\obj\Debug\AdoNetDay2.csproj.SuggestedBindingRedirects.cache
+S:\Apps\Dot Net\AdoNetDay2\obj\Debug\AdoNetDay2.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\AdoNetDay2\obj\Debug\AdoNetDay2.exe
+S:\Apps\Dot Net\AdoNetDay2\obj\Debug\AdoNetDay2.pdb
+S:\Apps\Dot Net\AdoNetDay2\bin\Debug\BusinessLogicLayerLibrary.dll
+S:\Apps\Dot Net\AdoNetDay2\bin\Debug\HelperLibrary.dll
+S:\Apps\Dot Net\AdoNetDay2\bin\Debug\DataAccessLayerLibrary.dll
+S:\Apps\Dot Net\AdoNetDay2\bin\Debug\BusinessLogicLayerLibrary.pdb
+S:\Apps\Dot Net\AdoNetDay2\bin\Debug\HelperLibrary.pdb
+S:\Apps\Dot Net\AdoNetDay2\bin\Debug\DataAccessLayerLibrary.pdb
+S:\Apps\Dot Net\AdoNetDay2\bin\Debug\DataAccessLayerLibrary.dll.config
+S:\Apps\Dot Net\AdoNetDay2\obj\Debug\AdoNetDay2.csproj.CopyComplete
