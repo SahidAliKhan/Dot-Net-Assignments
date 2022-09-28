@@ -57,8 +57,8 @@ namespace BAL
         public void UpdateBook(BookBAL bal)
         {
             LibraryDB context = new LibraryDB();
-            List<Book> customers = context.Books.ToList();
-            Book obj = customers.Find(id => id.Book_No == bal.Book_No);
+            List<Book> BookList = context.Books.ToList();
+            Book obj = BookList.Find(id => id.Book_No == bal.Book_No);
             obj.Book_Name = bal.Book_Name;
             obj.Author = bal.Author;
             obj.Cost = bal.Cost;
