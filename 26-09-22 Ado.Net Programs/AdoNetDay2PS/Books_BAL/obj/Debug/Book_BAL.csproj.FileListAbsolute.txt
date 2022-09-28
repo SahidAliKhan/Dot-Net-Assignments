@@ -1,0 +1,6 @@
+S:\Apps\Dot Net\AdoNetDay2PS\Books_BAL\bin\Debug\Books_BAL.dll
+S:\Apps\Dot Net\AdoNetDay2PS\Books_BAL\bin\Debug\Books_BAL.pdb
+S:\Apps\Dot Net\AdoNetDay2PS\Books_BAL\obj\Debug\Book_BAL.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\AdoNetDay2PS\Books_BAL\obj\Debug\Book_BAL.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\AdoNetDay2PS\Books_BAL\obj\Debug\Books_BAL.dll
+S:\Apps\Dot Net\AdoNetDay2PS\Books_BAL\obj\Debug\Books_BAL.pdb

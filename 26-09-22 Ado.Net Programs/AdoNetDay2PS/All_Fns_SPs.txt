@@ -1,0 +1,71 @@
+﻿CREATE PROCEDURE [dbo].sp_UpdateMember
+	@p_memberid int,
+	@p_membername char(20)
+AS
+	update Member
+	set Member_ID = @p_memberid,
+	Member_Name = @p_membername
+	where Member_ID = @p_memberid
+RETURN 0
+
+------------------------------------------------
+
+CREATE FUNCTION [dbo].[BookList]
+()
+RETURNS TABLE AS RETURN
+(
+	SELECT Book_No,Book_Name,Author, Cost, Category from Book
+)
+
+---------------------------------------------------
+
+CREATE TABLE [dbo].[Users] (
+    [Userid]   VARCHAR (10) NOT NULL,
+    [Password] VARCHAR (20) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Userid] ASC)
+);
+
+---------------------------------------------------
+CREATE PROCEDURE [dbo].sp_FindUsers
+	@id nvarchar(10),
+	@pass nvarchar(20)
+as
+	SELECT @id = Userid, @pass = Password  
+	from Users
+	where Userid = @id and Password = @pass;
+
+RETURN 0
+
+---------------------------------------------------
+CREATE FUNCTION [dbo].fn_Booklist
+(@id varchar(10),
+@pass varchar(20))
+RETURNS TABLE AS RETURN
+(
+	select* from Book,Users where Userid = @id And [Password] = @pass
+)
+
+---------------------------------------------------
+CREATE PROCEDURE [dbo].[change_return_statuss]
+	@id numeric,
+	@comments varchar(100)='Returned'
+AS
+	Update Issue
+	set Comments=@comments
+	WHERE Lib_Issue_Id = @id
+RETURN 0
+
+----------------------------------------------------------
+
+CREATE PROCEDURE [dbo].[UpdateBookDetails]
+	@book_id numeric(5),
+	@book_name varchar(30),
+	@Author varchar(30),
+	@cost numeric(7,2),
+	@category varchar(10)
+AS
+	update Book
+	set Book_No=@book_id,Book_Name=@book_name,Author=@Author,Cost=@cost,Category=@category
+	where Book_No = @book_id
+RETURN 0
+
