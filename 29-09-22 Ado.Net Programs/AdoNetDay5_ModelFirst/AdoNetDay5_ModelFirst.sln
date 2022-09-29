@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNetDay5_ModelFirst", "AdoNetDay5_ModelFirst.csproj", "{ED5B1ACE-092E-4371-9F11-58E960A6033C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeBAL", "ModeBAL\ModeBAL.csproj", "{8AC32A74-E4E7-4625-9347-5440D257FE30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelDAL", "ModelDAL\ModelDAL.csproj", "{7CEA853E-64A6-469C-9D7B-A87C93BBD78F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED5B1ACE-092E-4371-9F11-58E960A6033C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5B1ACE-092E-4371-9F11-58E960A6033C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5B1ACE-092E-4371-9F11-58E960A6033C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5B1ACE-092E-4371-9F11-58E960A6033C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AC32A74-E4E7-4625-9347-5440D257FE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC32A74-E4E7-4625-9347-5440D257FE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC32A74-E4E7-4625-9347-5440D257FE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC32A74-E4E7-4625-9347-5440D257FE30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CEA853E-64A6-469C-9D7B-A87C93BBD78F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CEA853E-64A6-469C-9D7B-A87C93BBD78F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CEA853E-64A6-469C-9D7B-A87C93BBD78F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CEA853E-64A6-469C-9D7B-A87C93BBD78F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCE83FD3-AC5A-46DC-8084-A9AB9938B5DB}
+	EndGlobalSection
+EndGlobal

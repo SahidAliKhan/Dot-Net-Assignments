@@ -1,0 +1,12 @@
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModeBAL\bin\Debug\ModeBAL.dll
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModeBAL\bin\Debug\ModeBAL.pdb
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModeBAL\obj\Debug\ModeBAL.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModeBAL\obj\Debug\ModeBAL.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModeBAL\obj\Debug\ModeBAL.dll
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModeBAL\obj\Debug\ModeBAL.pdb
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModeBAL\bin\Debug\ModeBAL.dll.config
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModeBAL\bin\Debug\EntityFramework.dll
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModeBAL\bin\Debug\EntityFramework.SqlServer.dll
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModeBAL\bin\Debug\EntityFramework.xml
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModeBAL\bin\Debug\EntityFramework.SqlServer.xml
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModeBAL\obj\Debug\ModeBAL.csproj.CopyComplete

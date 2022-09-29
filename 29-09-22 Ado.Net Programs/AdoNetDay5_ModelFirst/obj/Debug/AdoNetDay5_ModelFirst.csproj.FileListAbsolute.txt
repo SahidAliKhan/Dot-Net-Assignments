@@ -1,0 +1,13 @@
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\bin\Debug\AdoNetDay5_ModelFirst.exe.config
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\bin\Debug\AdoNetDay5_ModelFirst.exe
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\bin\Debug\AdoNetDay5_ModelFirst.pdb
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\obj\Debug\AdoNetDay5_ModelFirst.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\obj\Debug\AdoNetDay5_ModelFirst.csproj.SuggestedBindingRedirects.cache
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\obj\Debug\AdoNetDay5_ModelFirst.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\obj\Debug\AdoNetDay5_ModelFirst.exe
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\obj\Debug\AdoNetDay5_ModelFirst.pdb
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\bin\Debug\EntityFramework.dll
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\bin\Debug\EntityFramework.SqlServer.dll
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\bin\Debug\EntityFramework.xml
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\bin\Debug\EntityFramework.SqlServer.xml
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\obj\Debug\AdoNetDay5_ModelFirst.csproj.CopyComplete

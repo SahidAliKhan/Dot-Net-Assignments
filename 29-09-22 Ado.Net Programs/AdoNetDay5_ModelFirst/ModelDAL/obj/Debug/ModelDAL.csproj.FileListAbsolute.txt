@@ -1,0 +1,12 @@
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModelDAL\bin\Debug\ModelDAL.dll
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModelDAL\bin\Debug\ModelDAL.pdb
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModelDAL\obj\Debug\ModelDAL.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModelDAL\obj\Debug\ModelDAL.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModelDAL\obj\Debug\ModelDAL.dll
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModelDAL\obj\Debug\ModelDAL.pdb
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModelDAL\bin\Debug\ModelDAL.dll.config
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModelDAL\bin\Debug\EntityFramework.dll
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModelDAL\bin\Debug\EntityFramework.SqlServer.dll
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModelDAL\bin\Debug\EntityFramework.xml
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModelDAL\bin\Debug\EntityFramework.SqlServer.xml
+S:\Apps\Dot Net\AdoNetDay5_ModelFirst\ModelDAL\obj\Debug\ModelDAL.csproj.CopyComplete

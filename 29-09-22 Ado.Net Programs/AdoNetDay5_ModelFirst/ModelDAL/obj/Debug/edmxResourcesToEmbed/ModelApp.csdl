@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="ModelApp" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="ModelAppContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Customers" EntityType="ModelApp.Customer" />
+    <EntitySet Name="Products" EntityType="ModelApp.Product" />
+    <EntitySet Name="OrderDetails" EntityType="ModelApp.OrderDetails" />
+    <AssociationSet Name="OrderDetailsProduct" Association="ModelApp.OrderDetailsProduct">
+      <End Role="OrderDetails" EntitySet="OrderDetails" />
+      <End Role="Product" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="CustomerOrderDetails" Association="ModelApp.CustomerOrderDetails">
+      <End Role="Customer" EntitySet="Customers" />
+      <End Role="OrderDetails" EntitySet="OrderDetails" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerId" />
+    </Key>
+    <Property Name="CustomerId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CustName" Type="String" Nullable="false" />
+    <Property Name="Birthdate" Type="DateTime" Nullable="false" />
+    <Property Name="CustAddress" Type="ModelApp.Address" Nullable="false" />
+    <NavigationProperty Name="OrderDetails" Relationship="ModelApp.CustomerOrderDetails" FromRole="Customer" ToRole="OrderDetails" />
+  </EntityType>
+  <ComplexType Name="Address">
+    <Property Type="Int32" Name="StreetNo" Nullable="false" />
+    <Property Type="String" Name="StreetName" Nullable="false" />
+    <Property Type="String" Name="City" Nullable="false" />
+    <Property Type="String" Name="State" Nullable="false" />
+  </ComplexType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="ProductId" />
+    </Key>
+    <Property Name="ProductId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProdName" Type="String" Nullable="false" />
+    <Property Name="Price" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="OrderDetails" Relationship="ModelApp.OrderDetailsProduct" FromRole="Product" ToRole="OrderDetails" />
+  </EntityType>
+  <EntityType Name="OrderDetails">
+    <Key>
+      <PropertyRef Name="OrderId" />
+    </Key>
+    <Property Name="OrderId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OrderDate" Type="DateTime" Nullable="false" />
+    <NavigationProperty Name="Products" Relationship="ModelApp.OrderDetailsProduct" FromRole="OrderDetails" ToRole="Product" />
+    <Property Name="CustomerCustomerId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Customer" Relationship="ModelApp.CustomerOrderDetails" FromRole="OrderDetails" ToRole="Customer" />
+    <Property Name="CustomerCustomerId1" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="OrderDetailsProduct">
+    <End Type="ModelApp.OrderDetails" Role="OrderDetails" Multiplicity="*" />
+    <End Type="ModelApp.Product" Role="Product" Multiplicity="*" />
+  </Association>
+  <Association Name="CustomerOrderDetails">
+    <End Type="ModelApp.Customer" Role="Customer" Multiplicity="1" />
+    <End Type="ModelApp.OrderDetails" Role="OrderDetails" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CustomerId" />
+      </Principal>
+      <Dependent Role="OrderDetails">
+        <PropertyRef Name="CustomerCustomerId1" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
