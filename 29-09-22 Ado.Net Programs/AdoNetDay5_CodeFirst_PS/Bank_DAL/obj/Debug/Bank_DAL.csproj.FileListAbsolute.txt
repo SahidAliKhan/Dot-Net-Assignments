@@ -1,0 +1,12 @@
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\Bank_DAL\bin\Debug\Bank_DAL.dll
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\Bank_DAL\bin\Debug\Bank_DAL.pdb
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\Bank_DAL\obj\Debug\Bank_DAL.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\Bank_DAL\obj\Debug\Bank_DAL.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\Bank_DAL\obj\Debug\Bank_DAL.dll
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\Bank_DAL\obj\Debug\Bank_DAL.pdb
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\Bank_DAL\bin\Debug\Bank_DAL.dll.config
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\Bank_DAL\bin\Debug\EntityFramework.dll
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\Bank_DAL\bin\Debug\EntityFramework.SqlServer.dll
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\Bank_DAL\bin\Debug\EntityFramework.xml
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\Bank_DAL\bin\Debug\EntityFramework.SqlServer.xml
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\Bank_DAL\obj\Debug\Bank_DAL.csproj.CopyComplete

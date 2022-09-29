@@ -1,0 +1,16 @@
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\bin\Debug\AdoNetDay5_CodeFirst_PS.exe.config
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\bin\Debug\AdoNetDay5_CodeFirst_PS.exe
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\bin\Debug\AdoNetDay5_CodeFirst_PS.pdb
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\obj\Debug\AdoNetDay5_CodeFirst_PS.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\obj\Debug\AdoNetDay5_CodeFirst_PS.csproj.SuggestedBindingRedirects.cache
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\obj\Debug\AdoNetDay5_CodeFirst_PS.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\obj\Debug\AdoNetDay5_CodeFirst_PS.exe
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\obj\Debug\AdoNetDay5_CodeFirst_PS.pdb
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\bin\Debug\Bank_DAL.dll
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\bin\Debug\EntityFramework.dll
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\bin\Debug\EntityFramework.SqlServer.dll
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\bin\Debug\Bank_DAL.pdb
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\bin\Debug\Bank_DAL.dll.config
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\bin\Debug\EntityFramework.xml
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\bin\Debug\EntityFramework.SqlServer.xml
+S:\Apps\Dot Net\AdoNetDay5_CodeFirst_PS\obj\Debug\AdoNetDay5_CodeFirst_PS.csproj.CopyComplete
