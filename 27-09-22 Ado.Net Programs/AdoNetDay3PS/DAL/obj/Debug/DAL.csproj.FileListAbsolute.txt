@@ -1,0 +1,10 @@
+S:\Apps\Dot Net\AdoNetDay3PS\DAL\bin\Debug\DAL.dll
+S:\Apps\Dot Net\AdoNetDay3PS\DAL\bin\Debug\DAL.pdb
+S:\Apps\Dot Net\AdoNetDay3PS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\AdoNetDay3PS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\AdoNetDay3PS\DAL\obj\Debug\DAL.dll
+S:\Apps\Dot Net\AdoNetDay3PS\DAL\obj\Debug\DAL.pdb
+S:\Apps\Dot Net\AdoNetDay3PS\DAL\bin\Debug\BAL.dll
+S:\Apps\Dot Net\AdoNetDay3PS\DAL\bin\Debug\BAL.pdb
+S:\Apps\Dot Net\AdoNetDay3PS\DAL\obj\Debug\DAL.csproj.CopyComplete
+S:\Apps\Dot Net\AdoNetDay3PS\DAL\bin\Debug\DAL.dll.config

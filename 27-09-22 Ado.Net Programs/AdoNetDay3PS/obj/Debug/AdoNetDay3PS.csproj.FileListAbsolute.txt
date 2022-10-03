@@ -1,0 +1,16 @@
+S:\Apps\Dot Net\AdoNetDay3PS\bin\Debug\AdoNetDay3PS.exe.config
+S:\Apps\Dot Net\AdoNetDay3PS\bin\Debug\AdoNetDay3PS.exe
+S:\Apps\Dot Net\AdoNetDay3PS\bin\Debug\AdoNetDay3PS.pdb
+S:\Apps\Dot Net\AdoNetDay3PS\obj\Debug\AdoNetDay3PS.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\AdoNetDay3PS\obj\Debug\AdoNetDay3PS.csproj.SuggestedBindingRedirects.cache
+S:\Apps\Dot Net\AdoNetDay3PS\obj\Debug\AdoNetDay3PS.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\AdoNetDay3PS\obj\Debug\AdoNetDay3PS.exe
+S:\Apps\Dot Net\AdoNetDay3PS\obj\Debug\AdoNetDay3PS.pdb
+S:\Apps\Dot Net\AdoNetDay3PS\bin\Debug\BAL.dll
+S:\Apps\Dot Net\AdoNetDay3PS\bin\Debug\Helper.dll
+S:\Apps\Dot Net\AdoNetDay3PS\bin\Debug\BAL.pdb
+S:\Apps\Dot Net\AdoNetDay3PS\bin\Debug\Helper.pdb
+S:\Apps\Dot Net\AdoNetDay3PS\obj\Debug\AdoNetDay3PS.csproj.CopyComplete
+S:\Apps\Dot Net\AdoNetDay3PS\bin\Debug\DAL.dll
+S:\Apps\Dot Net\AdoNetDay3PS\bin\Debug\DAL.pdb
+S:\Apps\Dot Net\AdoNetDay3PS\bin\Debug\DAL.dll.config

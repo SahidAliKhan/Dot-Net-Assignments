@@ -1,0 +1,12 @@
+S:\Apps\Dot Net\AdoNetDay3PS\Helper\bin\Debug\Helper.dll
+S:\Apps\Dot Net\AdoNetDay3PS\Helper\bin\Debug\Helper.pdb
+S:\Apps\Dot Net\AdoNetDay3PS\Helper\obj\Debug\Helper.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\AdoNetDay3PS\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\AdoNetDay3PS\Helper\obj\Debug\Helper.dll
+S:\Apps\Dot Net\AdoNetDay3PS\Helper\obj\Debug\Helper.pdb
+S:\Apps\Dot Net\AdoNetDay3PS\Helper\bin\Debug\BAL.dll
+S:\Apps\Dot Net\AdoNetDay3PS\Helper\bin\Debug\DAL.dll
+S:\Apps\Dot Net\AdoNetDay3PS\Helper\bin\Debug\BAL.pdb
+S:\Apps\Dot Net\AdoNetDay3PS\Helper\bin\Debug\DAL.pdb
+S:\Apps\Dot Net\AdoNetDay3PS\Helper\obj\Debug\Helper.csproj.CopyComplete
+S:\Apps\Dot Net\AdoNetDay3PS\Helper\bin\Debug\DAL.dll.config
