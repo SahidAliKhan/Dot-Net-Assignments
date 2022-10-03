@@ -1,0 +1,11 @@
+1) Create a webapplication where the user can login using a default
+userid and password.(userid="yourname" and pwd="yourname@123")
+2) Create a Customers SignUp page to accept personal details of
+the user like CustomerFirstName,LastName,Date of birth,City,State.
+Save the values in the cookies.
+3) Create a Welcome Page for the customer, by greeting him
+with his username stored in the cookie.
+Example, Welcome (CustomerName) stored in the cookie.
+4) Create a page to accept the Prodid from the user.
+
+Connect it to the northwind database and display the values in the text box
