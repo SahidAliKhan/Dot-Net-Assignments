@@ -1,0 +1,5 @@
+﻿CREATE PROCEDURE [dbo].sp_deletebook
+	@bookno int
+AS
+	Delete from Book where Book_No = @bookno
+RETURN 0
