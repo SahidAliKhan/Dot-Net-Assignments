@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/AccountForm.aspx" title="OpenAccount"  description="Account Opening Form">
+    <siteMapNode url="~/CheckBalance.aspx" title="CheckBalance"  description="Check Balance on your account" />
+    <siteMapNode url="~/InterestRate.aspx" title="InterestRates"  description="Interest Rates on your deposits" />
+  </siteMapNode>
+</siteMap>
