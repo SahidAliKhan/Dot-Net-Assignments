@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "RegisteredStudents";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>RegisteredStudents</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Custid</th>
+        <th>Custname</th>
+        <th>City</th>
+    </tr>
+    @foreach (CustModel item in (List<CustModel>)@ViewData["mycustList"])
+    {
+        <tr>
+
+            <td>@item.Custid</td>
+            <td>@item.Custname</td>
+            <td>@item.City</td>
+
+        </tr>
+    }
+</table>
+

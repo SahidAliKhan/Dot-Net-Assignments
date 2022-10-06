@@ -1,0 +1,51 @@
+﻿@model MVC6thOCT.Models.CustModel
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CustModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Custid)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Custid)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Custname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Custname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.City)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.City)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RegistrationDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RegistrationDate)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "NowEditOrderDetails", new { id = Model.Custid }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

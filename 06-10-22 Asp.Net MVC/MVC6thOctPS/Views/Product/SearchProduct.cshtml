@@ -1,0 +1,43 @@
+﻿@model MVC6thOctPS.Models.ProductModel
+
+@{
+    ViewBag.Title = "SearchProduct";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>SearchProduct</h2>
+
+<div>
+    <h4>ProductModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Prodid)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Prodid)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProdName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MfgDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MfgDate)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "GetList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>GetList</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Custid</th>
+        <th>Custname</th>
+        <th>City</th>
+    </tr>
+    @*@foreach (var item in @ViewBag.mybag)
+        {
+            <tr>
+                <td>@item.Custid</td>
+                <td>@item.Custname</td>
+                <td>@item.City</td>
+            </tr>
+        }*@
+    @foreach (CustModel item in (List<CustModel>)TempData["mybag"])
+    {
+        <tr>
+
+            <td>@item.Custid</td>
+            <td>@item.Custname</td>
+            <td>@item.City</td>
+
+        </tr>
+    }
+
+
+
+</table>

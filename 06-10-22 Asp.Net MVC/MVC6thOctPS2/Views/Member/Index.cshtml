@@ -1,0 +1,40 @@
+﻿@model IEnumerable<MVC6thOctPS2.Models.MemberModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Add Member", "AddMember")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Memberid)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MemberName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Memberid)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MemberName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit Member", "EditMember", new { id = item.Memberid }) |
+            @Html.ActionLink("Show Member Details", "Details", new { id = item.Memberid }) |
+            @Html.ActionLink("Delete Member", "Delete", new { id = item.Memberid })
+        </td>
+    </tr>
+}
+
+</table>

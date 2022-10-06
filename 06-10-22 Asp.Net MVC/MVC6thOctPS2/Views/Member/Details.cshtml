@@ -1,0 +1,35 @@
+﻿@model MVC6thOctPS2.Models.MemberModel
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>MemberModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Memberid)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Memberid)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MemberName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MemberName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit Member", "EditMemberDetails", new { id = Model.Memberid}) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

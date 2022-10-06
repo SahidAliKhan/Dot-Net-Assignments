@@ -1,0 +1,52 @@
+﻿@model IEnumerable<MVC6thOCT.Models.CustModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Custid)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Custname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.City)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RegistrationDate)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Custid)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Custname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.City)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RegistrationDate)
+        </td>
+        <td>
+            @Html.ActionLink("Edit Customer", "AddOrderDetails", new { id = item.Custid }) |
+            @Html.ActionLink("Show Details", "Details", new { id = item.Custid }) |
+            @Html.ActionLink("Delete Customer", "Delete", new { id = item.Custid })
+        </td>
+    </tr>
+}
+
+</table>

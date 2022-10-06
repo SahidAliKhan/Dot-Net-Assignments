@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+<h2>@ViewBag.msg</h2>
+
+@foreach (var item in @ViewBag.strList)
+{
+    <h1>@item</h1>
+}
+
+<hr />
+<table class="table table-bordered">
+    <tr>
+        <th>Custid</th>
+        <th>Custname</th>
+        <th>City</th>
+    </tr>
+    @foreach (var item in @ViewBag.customers)
+    {
+        <tr>
+
+            <td>@item.Custid</td>
+            <td>@item.Custname</td>
+            <td>@item.City</td>
+
+        </tr>
+    }
+</table>
+
