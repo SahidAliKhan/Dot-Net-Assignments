@@ -1,0 +1,89 @@
+﻿﻿Introduction Web API,API Testing, Controller,Routing
+
+
+(applictation programming interface)
+Web API------  used for building REST ful services.
+---------------------------------------------------------------
+REST----architectural style that describes a uniform interface between physically separate components
+which are oftenly connected in  client server model using the internet.
+
+
+It is a standard  that guides the design and development of processes which enable us to interact with the data stored on the web server.
+-------------------------------------------------------------
+
+REST------> Representational State Transfer
+
+
+         Browser------>IIS ---> MVC Application-----> Helper,BAL-----> DAL-----> DB
+	   Desktop---windows OS
+
+
+Accept request from all types of devices----> 
+
+                angular/react(convert to json/xml)
+	Browser-->html page---->IIS---->WebAPI MVC Application----> Helper,BAL---> DAL--- >DB
+
+angular service------------------------------------------->Web api service
+angular service----> get/post/put/delete----->(url of your Web API MVC Application)
+
+************************************************************************************************
+    of any device               gives/accept
+			Http Verbs---> Gives--->POST
+                                       Receive---->GET
+------------------------------------------------------------------------------------
+
+API----is a set of subroutine definitions,protocols,tools for building software and apps.
+
+
+Web API, it is a API over the Web, accessible with http.
+its a Concept, not a technology.
+facebook developers API-----> http verbs---> how the communication happens using these api's
+------------------------------------------------------------------------------------
+Its a extensible framework for building http services that can be accessible in different appls 
+on different platforms such as web,mobile or windows.
+Similar to MVC  except the data in html except we receive it as json/xml.
+
+It is a Web Service,Web API---- >http/https
+It is WCF service-----> multiple protocols---http/https/ftp/udp etc
+-----------------------------------------------------------------------------------
+
+New Project-----> Asp.NET MVC(.NET Framework) ----> Web API--->
+                     Model View Controller + Web aPI 
+
+View is created by the application who wants to connect/services of the API.
+
+
+Browser----> XML format
+-------------------------
+API TestingTool ----> JSon 
+
+Swagger----
+Postman--application for testing the api
+SoapUI----
+Apache Jmeter
+Katalon Studio
+Apigee
+Karate
+API Fortress
+-----------------------------------------------------------------
+
+Traditional Routing-----api/controllername/actionname/{id}----id optional
+
+Attribute Routing----
+
+If [RoutePrefix("Memp")] is used ---- Memp
+
+If action with route, along with Prefix
+[Route("GetAllEmps") -------------- Memp/GetAllEmps
+--------------------------------------------
+IF without routeprefix, ie only route attribute is used on actions,
+[Route("GetAllEmps") -------------- GetAllEmps
+
+
+IF without routeprefix, ie only route attribute is used on actions,
+[Route("findEmp")-------------- findEmp
+[Route("findEmp\{id}")-------------- findEmp/1
+---------------------------------------------------------------
+To override RoutePrefix, we use
+ [Route("~/FindEmp/{id}")]
+ ----------------------------------------------------------
