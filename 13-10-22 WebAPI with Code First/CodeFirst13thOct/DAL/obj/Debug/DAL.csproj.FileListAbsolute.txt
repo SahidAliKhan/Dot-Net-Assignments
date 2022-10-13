@@ -1,0 +1,12 @@
+S:\Apps\Dot Net\CodeFirst13thOct\DAL\bin\Debug\DAL.dll.config
+S:\Apps\Dot Net\CodeFirst13thOct\DAL\bin\Debug\DAL.dll
+S:\Apps\Dot Net\CodeFirst13thOct\DAL\bin\Debug\DAL.pdb
+S:\Apps\Dot Net\CodeFirst13thOct\DAL\bin\Debug\EntityFramework.dll
+S:\Apps\Dot Net\CodeFirst13thOct\DAL\bin\Debug\EntityFramework.SqlServer.dll
+S:\Apps\Dot Net\CodeFirst13thOct\DAL\bin\Debug\EntityFramework.xml
+S:\Apps\Dot Net\CodeFirst13thOct\DAL\bin\Debug\EntityFramework.SqlServer.xml
+S:\Apps\Dot Net\CodeFirst13thOct\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\CodeFirst13thOct\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\CodeFirst13thOct\DAL\obj\Debug\DAL.csproj.CopyComplete
+S:\Apps\Dot Net\CodeFirst13thOct\DAL\obj\Debug\DAL.dll
+S:\Apps\Dot Net\CodeFirst13thOct\DAL\obj\Debug\DAL.pdb
