@@ -1,0 +1,9 @@
+S:\Apps\Dot Net\CustomerOrderService.Tests\CustomerOrderService\bin\Debug\CustomerOrderService.dll
+S:\Apps\Dot Net\CustomerOrderService.Tests\CustomerOrderService\bin\Debug\CustomerOrderService.pdb
+S:\Apps\Dot Net\CustomerOrderService.Tests\CustomerOrderService\obj\Debug\CustomerOrderService.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\CustomerOrderService.Tests\CustomerOrderService\obj\Debug\CustomerOrderService.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\CustomerOrderService.Tests\CustomerOrderService\obj\Debug\CustomerOrderService.dll
+S:\Apps\Dot Net\CustomerOrderService.Tests\CustomerOrderService\obj\Debug\CustomerOrderService.pdb
+S:\Apps\Dot Net\CustomerOrderService.Tests\CustomerOrderService\bin\Debug\nunit.framework.dll
+S:\Apps\Dot Net\CustomerOrderService.Tests\CustomerOrderService\bin\Debug\nunit.framework.xml
+S:\Apps\Dot Net\CustomerOrderService.Tests\CustomerOrderService\obj\Debug\CustomerOrderService.csproj.CopyComplete

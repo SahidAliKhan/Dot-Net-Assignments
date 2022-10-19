@@ -1,0 +1,9 @@
+S:\Apps\Dot Net\UnitTestingPS.Tests\UnitTestingPS\bin\Debug\UnitTestingPS.dll
+S:\Apps\Dot Net\UnitTestingPS.Tests\UnitTestingPS\bin\Debug\UnitTestingPS.pdb
+S:\Apps\Dot Net\UnitTestingPS.Tests\UnitTestingPS\obj\Debug\UnitTestingPS.csproj.AssemblyReference.cache
+S:\Apps\Dot Net\UnitTestingPS.Tests\UnitTestingPS\obj\Debug\UnitTestingPS.csproj.CoreCompileInputs.cache
+S:\Apps\Dot Net\UnitTestingPS.Tests\UnitTestingPS\obj\Debug\UnitTestingPS.dll
+S:\Apps\Dot Net\UnitTestingPS.Tests\UnitTestingPS\obj\Debug\UnitTestingPS.pdb
+S:\Apps\Dot Net\UnitTestingPS.Tests\UnitTestingPS\bin\Debug\nunit.framework.dll
+S:\Apps\Dot Net\UnitTestingPS.Tests\UnitTestingPS\bin\Debug\nunit.framework.xml
+S:\Apps\Dot Net\UnitTestingPS.Tests\UnitTestingPS\obj\Debug\UnitTestingPS.csproj.CopyComplete
